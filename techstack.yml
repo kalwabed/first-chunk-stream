@@ -1,7 +1,8 @@
 repo_name: kalwabed/first-chunk-stream
 report_id: 1aa7050f0366c5c51751d4cdeb7b5a28
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T13:09:34+00:00'
+timestamp: '2024-01-05T08:54:28+00:00'
 requested_by: sindresorhus
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream/blob/main/package.json
   detection_source: package.json
   last_updated_by: Sindre Sorhus
   last_updated_on: 2014-05-25 15:31:13.000000000 Z
@@ -47,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -56,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream/blob/main/.github/workflows/main.yml
   detection_source: ".github/workflows/main.yml"
   last_updated_by: Sindre Sorhus
   last_updated_on: 2021-08-15 21:39:46.000000000 Z
@@ -67,6 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream/blob/main/package.json
   detection_source: package.json
   last_updated_by: Sindre Sorhus
   last_updated_on: 2014-05-25 15:31:13.000000000 Z
@@ -79,6 +86,7 @@ tools:
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
   image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream/blob/main/package.json
   detection_source: package.json
   last_updated_by: Sindre Sorhus
   last_updated_on: 2019-06-13 07:21:47.000000000 Z
@@ -92,7 +100,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream/blob/main/package.json
   detection_source: package.json
   last_updated_by: Sindre Sorhus
   last_updated_on: 2021-08-15 21:39:46.000000000 Z
@@ -106,7 +114,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream/blob/main/package.json
   detection_source: package.json
   last_updated_by: Sindre Sorhus
   last_updated_on: 2014-05-25 15:31:13.000000000 Z
@@ -120,7 +128,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream/blob/main/package.json
   detection_source: package.json
   last_updated_by: Sindre Sorhus
   last_updated_on: 2014-05-25 15:31:13.000000000 Z
@@ -134,7 +142,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16858/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream/blob/main/package.json
   detection_source: package.json
   last_updated_by: Sindre Sorhus
   last_updated_on: 2014-05-25 15:31:13.000000000 Z
@@ -148,7 +156,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/kalwabed/first-chunk-stream/blob/main/package.json
   detection_source: package.json
   last_updated_by: Sindre Sorhus
   last_updated_on: 2014-05-25 15:31:13.000000000 Z
